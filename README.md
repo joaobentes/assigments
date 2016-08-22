@@ -1,4 +1,4 @@
-Written assigment of the Health Innovation Summer School 2016 (HISS). It should consist on 5 pages about:
+Written assigment of the Health Innovation Summer School 2016 (HISS). It should consist on 5 pages (lined 1/2, font 12) about:
 - Short summaries of all three plenary sessions
 - Your reflections on panel discussions (23-24/08) and responses you got to your questions
 - Your reflections on the content of the HISS (e.g. what did you learn and how was it useful for you future project)
